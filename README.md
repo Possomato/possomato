@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/gabrielpossomato/">
+<a href="https://www.linkedin.com/in/gabrielpossomato/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=possomato&theme=aura" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=possomato&layout=donut&theme=aura" />
 </a>
