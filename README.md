@@ -1,11 +1,12 @@
 ### Olá!
 
-- 🌱 Estudando JavaScript
+🌱 Estudando JavaScript
 
 <a href="https://www.linkedin.com/in/gabrielpossomato/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=possomato&show_icons=true&theme=aura" />
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=possomato&show_icons=true&theme=aura" />-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=possomato&layout=donut&theme=aura" />
 </a>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Possomato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
