@@ -2,7 +2,7 @@
 
 🌱 Estudando JavaScript
 
-<a href="https://www.linkedin.com/in/gabrielpossomato/" target="_blank">
+<a href="https://possomato.github.io/portfolio/" target="_blank">
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=possomato&show_icons=true&theme=aura" />-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=possomato&layout=donut&theme=aura" />
 </a>
