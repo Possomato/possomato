@@ -1,6 +1,6 @@
 ### Olá!
 
-🌱 Estudando JavaScript
+🌱 Estudando React
 
 <a href="https://possomato.github.io/portfolio/" target="_blank">
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=possomato&show_icons=true&theme=aura" />-->
